@@ -120,9 +120,7 @@ public class Main {
 
         public static void main(String[] args) {
 
-            // CREAR UN OBJETO DEL GESTOR DE CLAVES
             Gestor gestor = new Gestor();
-
             System.out.println("LOGEATE DE FORMA SEGURA NIÑO");
 
             System.out.println("REGÍSTRATEEE");
