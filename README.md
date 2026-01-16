@@ -1,6 +1,6 @@
 # SISTEMA LOGIN 🔐
 
-> ***Esta tarea trata sobre el desarrollo de una app que se encargase de simular el sistema de log in utilizando el algoritmo SHA-256. Para ello, he separado la lógica del programa en dos clases, siendo tres en total, consta de una clase Main, clase ejecutora del programa ( llama al resto de clases ), la clase Gestor, esta clase contiene métodos para el registro del usuario y su inicio de sesión posterior y, la última clase Hash, se encarga de cifrar la contraseña y devolver el hash hexadecimal, esta clase será llamada por la clase gestor para el cifrado correcto de la contraseña... Toda la lógica del programa está explicada línea por línea ☺️🦄⛓️‍💥***
+> ***Esta tarea trata sobre el desarrollo de una app que se encarga de simular el sistema de log in utilizando el algoritmo SHA-256. Para ello, he separado la lógica del programa en dos clases, siendo tres en total, consta de una clase Main, clase ejecutora del programa ( llama al resto de clases ), la clase Gestor, esta clase contiene métodos para el registro del usuario y su inicio de sesión posterior y, la última clase Hash, se encarga de cifrar la contraseña y devolver el hash hexadecimal, esta clase será llamada por la clase gestor para el cifrado correcto de la contraseña... Toda la lógica del programa está explicada línea por línea ☺️🦄⛓️‍💥***
 
 ---
 
